@@ -28,6 +28,6 @@ body {
         }
 
         .styled-button:hover {
-            background-color: #45a049;
+            background-color: #f50057;
         }
     </style>
